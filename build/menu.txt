@@ -1,0 +1,5 @@
+Welcome to Xonix Game!
+1. Start Game
+2. Scoreboard
+3. Exit
+

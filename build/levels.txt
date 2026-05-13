@@ -1,0 +1,6 @@
+Select Difficulty Level:
+1. Easy (2 enemies)
+2. Medium (4 enemies)
+3. Hard (6 enemies)
+4. Continuous Mode
+
