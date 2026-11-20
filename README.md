@@ -1,6 +1,6 @@
 # Xonix Game — Complete README
 
-**Developed by:** Maham Anjum & Romaisa  
+**Developed by:** [@Maham Anjum](https://github.com/mahamanjum99) & [@Romaisa](https://github.com/Ru-1234)  
 **Language:** C++  
 **Graphics/Audio Library:** SFML (Simple and Fast Multimedia Library)  
 **Build System:** CMake
@@ -468,5 +468,3 @@ make
 ```
 
 ---
-
-*README generated from source code analysis of main.cpp, CMakeLists.txt, and all runtime text files.*
